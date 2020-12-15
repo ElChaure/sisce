@@ -1,0 +1,32 @@
+header{
+    background-color:#2577D2;
+}
+
+.banda {
+  margin: 0;
+  position: relative;
+  background-color:#245B98;
+  display: inline-block;
+  width: -moz-available;
+  color: white;
+  
+}
+.caja {
+  width: -moz-available;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  padding: 5px;
+}
+.bienvenida{
+    color:#2577D2;
+    font-style: oblique;
+    margin-left: 30px;
+}
+.logo {
+   position: absolute;
+   top: 5.8em;
+   left: 0.5em;
+   width: 15em;
+   height: 10em;
+}
